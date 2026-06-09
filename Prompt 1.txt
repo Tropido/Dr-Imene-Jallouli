@@ -1,0 +1,441 @@
+# MASTER PROMPT — MULTILINGUAL PSYCHOLOGIST WEBSITE (AI AGENCY VERSION)
+
+You are an award-winning team composed of:
+
+* Senior UX/UI Designer
+* Conversion Rate Optimization Expert
+* Healthcare Website Specialist
+* SEO Expert
+* Accessibility Expert
+* Copywriter Specialized in Psychology & Mental Health
+* Front-End Developer
+
+Your mission is to create a complete premium website for a psychologist that looks modern, trustworthy, calming, professional, and highly conversion-focused.
+
+The website must be production-ready and designed to maximize consultation bookings.
+
+---
+
+## CLIENT INFORMATION
+
+Psychologist Name: Dr. Imene Jallouli
+
+Specialization:
+Prise en charge de la dépression : Thérapie et suivi personnalisé.
+Traitement des troubles anxieux : Gestion du stress et des crises d’angoisse.
+Thérapie comportementale et cognitive (TCC) : Techniques de gestion des pensées et émotions.
+Suivi des troubles bipolaires : Stabilisation de l’humeur et accompagnement médical.
+Traitement de la schizophrénie : Approche médicamenteuse et psychothérapeutique.
+Gestion du trouble obsessionnel-compulsif (TOC) : Stratégies et thérapies adaptées.
+Accompagnement des troubles du sommeil : Solutions pour l’insomnie et autres troubles.
+Suivi des addictions : Prise en charge des dépendances (alcool, tabac, drogues).
+Évaluation des troubles du comportement : Diagnostic et accompagnement adapté.
+Thérapie de soutien : Accompagnement face aux difficultés de la vie.
+Suivi des adolescents : Prise en charge des troubles émotionnels et scolaires.
+Aide en gestion du stress post-traumatique : Thérapies pour surmonter les traumatismes.
+Psychiatrie périnatale : Suivi des troubles psychiques durant et après la grossesse.
+Suivi des troubles alimentaires : Anorexie, boulimie et autres désordres alimentaires.
+
+Location:
+Ariana, Tunisia
+
+Phone:
++216 92 511 980
+
+Email:
+[EMAIL]
+
+Office Address:
+Violette Medical Center, 4ème étage, Bureau A4-8, Avenue Hédi Nouira, Cité Ennasr 2, Ariana 2001
+
+Years of Experience:
+10 years
+
+Languages Spoken:
+Arabic, French, English
+
+Booking Link:
+[CAL.COM LINK]
+
+WhatsApp:
+[WHATSAPP NUMBER]
+
+---
+
+## WEBSITE OBJECTIVES
+
+Primary Goal:
+Generate consultation bookings.
+
+Secondary Goals:
+
+* Build trust
+* Showcase expertise
+* Explain services
+* Educate visitors
+* Increase contact inquiries
+
+---
+
+## TECHNICAL REQUIREMENTS
+
+Build:
+
+* One-page premium website
+* Fully responsive
+* Mobile-first
+* Fast loading
+* SEO optimized
+* Accessibility compliant
+* Modern animations
+* Smooth scrolling
+* Professional healthcare aesthetic
+
+Technology:
+
+* HTML5
+* Tailwind CSS
+* JavaScript
+* Modern component architecture
+
+---
+
+## MULTILINGUAL REQUIREMENTS
+
+Create a complete multilingual website.
+
+Supported Languages:
+
+1. French (Default)
+2. English
+3. Tunisian Arabic (Derja)
+
+Provide:
+
+* Language switcher in navbar
+* Full translation for every section
+* RTL support for Arabic
+* Proper font handling
+* Seamless language switching
+
+French should be the default language.
+
+Do NOT translate word-for-word.
+
+Adapt the copy naturally for each language and cultural context.
+
+The Arabic version should use Tunisian-friendly wording and natural expressions rather than formal translated Arabic whenever appropriate.
+
+---
+
+## BRAND STYLE
+
+Visual Feel:
+
+* Premium
+* Calm
+* Trustworthy
+* Elegant
+* Human
+* Welcoming
+
+Color Palette:
+
+Primary:
+Soft Blue
+
+Secondary:
+Sage Green
+
+Accent:
+Warm Beige
+
+Background:
+White
+
+Text:
+Dark Gray
+
+Avoid:
+
+* Aggressive marketing colors
+* Flashy gradients
+* Overly corporate design
+
+---
+
+## WEBSITE STRUCTURE
+
+### SECTION 1 — HERO
+
+Create a powerful first impression.
+
+Include:
+
+* Professional headline
+* Emotional subheadline
+* CTA button
+* Professional image
+* Trust indicators
+
+Examples:
+
+"Find Balance, Clarity and Emotional Well-Being"
+
+"Professional Psychological Support Tailored To Your Needs"
+
+CTA:
+
+"Book a Consultation"
+
+Trust Badges:
+
+* Confidential Sessions
+* Licensed Professional
+* Online & In-Person Sessions
+
+Primary CTA should open Cal.com booking popup.
+
+---
+
+### SECTION 2 — WHO I HELP
+
+Create visually appealing cards.
+
+Topics:
+
+* Anxiety
+* Stress & Burnout
+* Depression
+* Relationship Difficulties
+* Self-Esteem Issues
+* Life Transitions
+* Emotional Challenges
+
+Each card includes:
+
+* Icon
+* Title
+* Short description
+
+---
+
+### SECTION 3 — ABOUT THE PSYCHOLOGIST
+
+Include:
+
+* Professional portrait
+* Biography
+* Credentials
+* Certifications
+* Years of experience
+* Areas of expertise
+
+Focus heavily on trust building.
+
+---
+
+### SECTION 4 — THERAPY PROCESS
+
+Display a 4-step journey:
+
+1. Initial Consultation
+2. Assessment
+3. Personalized Therapy Plan
+4. Progress & Growth
+
+Create modern visual timeline.
+
+---
+
+### SECTION 5 — BENEFITS
+
+Create benefit cards:
+
+* Safe Environment
+* Confidentiality
+* Evidence-Based Methods
+* Personalized Support
+* Flexible Scheduling
+* Online Consultations
+
+---
+
+### SECTION 6 — TESTIMONIALS
+
+Generate 3 realistic testimonials.
+
+Focus on:
+
+* Anxiety reduction
+* Improved confidence
+* Better relationships
+* Emotional growth
+
+Professional and believable.
+
+No exaggerated claims.
+
+---
+
+### SECTION 7 — FAQ
+
+Include:
+
+* How long does therapy take?
+* Are sessions confidential?
+* Can sessions be online?
+* What issues do you treat?
+* How do I book?
+* What are the consultation fees?
+
+Use accordion component.
+
+---
+
+### SECTION 8 — BOOKING SECTION
+
+Dedicated booking area.
+
+Headline:
+
+"Take the First Step Today"
+
+Subheadline:
+
+"Schedule a confidential consultation in just a few clicks."
+
+Include:
+
+* Embedded Cal.com booking widget
+* Instant booking functionality
+* Mobile optimized design
+
+---
+
+### SECTION 9 — CONTACT
+
+Include:
+
+* Contact form
+* Phone
+* Email
+* WhatsApp button
+* Google Maps integration
+* Working hours
+
+---
+
+### SECTION 10 — FOOTER
+
+Include:
+
+* Quick links
+* Contact details
+* Social links
+* Privacy Policy
+* Terms & Conditions
+* Copyright
+
+---
+
+## CAL.COM INTEGRATION
+
+Implement:
+
+Primary CTA Buttons:
+Open Cal.com popup modal.
+
+Booking Section:
+Embed Cal.com widget directly inside the page.
+
+Use placeholders:
+
+[CAL_COM_LINK]
+
+Requirements:
+
+* Instant scheduling
+* Mobile friendly
+* Smooth integration
+* Professional design
+
+---
+
+## WHATSAPP INTEGRATION
+
+Create floating WhatsApp button.
+
+Message example:
+
+"Hello, I would like more information about your consultations."
+
+Generate WhatsApp URL automatically from provided number.
+
+---
+
+## SEO REQUIREMENTS
+
+Generate:
+
+* Meta Title
+* Meta Description
+* Open Graph Tags
+* Twitter Tags
+* Structured Data Schema
+* Local Business Schema
+* Healthcare Professional Schema
+
+Optimize:
+
+* Headings
+* Internal structure
+* Page speed
+* Accessibility
+
+---
+
+## COPYWRITING REQUIREMENTS
+
+Tone:
+
+* Empathetic
+* Professional
+* Reassuring
+* Human
+* Trustworthy
+
+Avoid:
+
+* Manipulative language
+* False promises
+* Guaranteed outcomes
+
+Focus on:
+
+* Emotional reassurance
+* Professional support
+* Safety
+* Growth
+* Well-being
+
+---
+
+## CONVERSION OPTIMIZATION
+
+Include CTA buttons:
+
+* Hero Section
+* Navigation Bar
+* Mid-page
+* Booking Section
+* Footer
+
+All CTAs should connect to Cal.com booking.
+
+Design the page to maximize appointment bookings while maintaining healthcare professionalism.
+
+Generate the complete production-ready website with all sections, translations, responsive design, SEO optimization, Cal.com integration, WhatsApp integration, and modern UI/UX best practices.
+
+
+ImenJallouli123 cehilic849@4nly.com
